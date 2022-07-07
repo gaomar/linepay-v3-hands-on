@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "lossless-json": "^1.0.3",
     "memory-cache": "^0.2.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "netlify-lambda": "^1.6.3",
     "nodemon": "^2.0.3",
     "query-string": "^6.12.1",
